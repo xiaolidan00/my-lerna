@@ -1,0 +1,20 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.2.3",
+  "deps": {},
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": "package.json",
+        "hash": "14220540722019889451"
+      },
+      {
+        "file": "src/index.js",
+        "hash": "6746120417300303277"
+      }
+    ]
+  }
+}

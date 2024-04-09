@@ -1,0 +1,22 @@
+{
+  "name": "my-lerna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^8.1.2",
+    "utils": "workspace:*"
+  },
+  "packageManager": "pnpm@8.5.0"
+}
