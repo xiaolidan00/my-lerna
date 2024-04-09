@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "lerna": "^8.1.2",
-    "utils": "workspace:*"
+    "utils": "workspace:2.0.0"
   },
   "packageManager": "pnpm@8.5.0"
 }

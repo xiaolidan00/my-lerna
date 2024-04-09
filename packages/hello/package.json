@@ -1,0 +1,27 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "> TODO: description",
+  "author": "xiaolidan00 <764937567@qq.com>",
+  "homepage": "https://github.com/xiaolidan00/my-lerna#readme",
+  "license": "ISC",
+  "main": "lib/hello.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaolidan00/my-lerna.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/hello.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/xiaolidan00/my-lerna/issues"
+  }
+}
